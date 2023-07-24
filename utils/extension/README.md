@@ -1,0 +1,10 @@
+### Extensions List
+  - [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet.git) 
+  - [batchlinks-webui](https://github.com/etherealxx/batchlinks-webui.git) 
+  - [tag-autocomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git) 
+  - [ultimate-upscaler](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git) 
+  - [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything.git) 
+  - [ebsynth_utility](https://github.com/s9roll7/ebsynth_utility.git) 
+  - [prompt-generator](https://github.com/AUTOMATIC1111/stable-diffusion-webui-promptgen) 
+  - [image-adjustment](https://github.com/KohakuBlueleaf/a1111-sd-webui-haku-img) 
+  - [sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) 
