@@ -7,4 +7,4 @@ https://github.com/s9roll7/ebsynth_utility.git | ebsynth_utility | extension
 https://github.com/AUTOMATIC1111/stable-diffusion-webui-promptgen | prompt-generator 
 https://github.com/KohakuBlueleaf/a1111-sd-webui-haku-img | image-adjustment
 https://github.com/s0md3v/sd-webui-roop | sd-webui-roop | extension
-https://github.com/thomasasfk/sd-webui-aspect-ratio-helper.git | sd-webui-aspect-ratio-helper
+https://github.com/thomasasfk/sd-webui-aspect-ratio-helper.git | aspect-ratio-helper
