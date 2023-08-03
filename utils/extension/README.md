@@ -8,3 +8,4 @@
   - [prompt-generator](https://github.com/AUTOMATIC1111/stable-diffusion-webui-promptgen) 
   - [image-adjustment](https://github.com/KohakuBlueleaf/a1111-sd-webui-haku-img) 
   - [sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) 
+  - [sd-webui-aspect-ratio-helper](https://github.com/thomasasfk/sd-webui-aspect-ratio-helper.git) 
