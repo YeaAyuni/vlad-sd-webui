@@ -9,7 +9,7 @@ This repository is a tool for running Stable-Diffusion (SD), using google colabo
 
 #### Requirements
    - Google Account, *to run this notebook.*
-   - [Ngrok Account](https://dashboard.ngrok.com/get-started/your-authtoken), *more specifically the API key. used to bridge between server and client.*
+   - [Ngrok Account](https://dashboard.ngrok.com/get-started/your-authtoken), optional.
    - Good Internet Connection.
 
 #### Notebook Tools/Feature
