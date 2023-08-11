@@ -1,0 +1,4 @@
+https://github.com/continue-revolution/sd-webui-segment-anything.git | sd-webui-segment-anything
+https://github.com/s9roll7/ebsynth_utility.git | ebsynth_utility | extension
+https://github.com/KohakuBlueleaf/a1111-sd-webui-haku-img | image-adjustment
+https://github.com/s0md3v/sd-webui-roop | sd-webui-roop | extension
